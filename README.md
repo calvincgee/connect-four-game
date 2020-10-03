@@ -1,6 +1,6 @@
 # Connect Four
 
-This is a basic Connect Four game created to incorporate knowledge of Java classes and GUI.
+This is a basic Connect Four game created to incorporate knowledge of Java classes and Java GUI.
 This package contains two separate "AI." One AI is called RandomAI and makes random moves every turn. The other AI, CalvinAI,
 searches for winning moves or moves that prevent wins. While CalvinAI's mechanics are still somewhat elementary, on average it beats RandomAI 95% of the time.
 
