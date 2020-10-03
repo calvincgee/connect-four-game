@@ -3,7 +3,7 @@
 By Calvin Gee
 
 
-This is a basic Connect Four game created in PIC 20A to incorporate knowledge of Java classes, GUI, and decision tree mechanics.
+This is a basic Connect Four game created to incorporate knowledge of Java classes, GUI, and decision tree mechanics.
 This package contains two separate "AI." One AI is called RandomAI and makes random moves every turn. The other AI, CalvinAI,
 uses a decision tree to look 4 levels deep to make the move that will give it the best opportunity to win. While CalvinAI's mechanics
 are still somewhat elementary, on average it beats RandomAI 95% of the time.
@@ -17,4 +17,4 @@ Clone the gir repo and run the java file found in the main folder. By default, a
 
 ## Configuration
 
-To alter game modes, open the java file.
+To alter game modes, open the java file and change the Player parameters of the GUI
