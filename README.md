@@ -13,14 +13,15 @@ Clone the gir repo and run the java file found in the main folder. By default, a
 
 To alter game modes, open the java file and change the Player parameters of the GUICF object.
 
-A game between two human players has no parameters.
+- A game between two human players has no parameters.
 
-A game between one human player and one AI has an AI object as the single parameter.
+- A game between one human player and one AI has an AI object as the single parameter.
 
-A game between two AIs has two AI objects as the two parameters.
+- A game between two AIs has two AI objects as the two parameters.
 
 Try out games against both RandomAI and Calvin AI.
 
 ## Author
 
 Calvin Gee
+calving314@gmail.com
