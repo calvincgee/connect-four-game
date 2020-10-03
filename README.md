@@ -24,4 +24,5 @@ Try out games against both RandomAI and Calvin AI.
 ## Author
 
 Calvin Gee
+
 calving314@gmail.com
