@@ -1,4 +1,5 @@
-###Connect Four
+# Connect Four
+
 By Calvin Gee
 
 
@@ -10,4 +11,7 @@ are still somewhat elementary, on average it beats RandomAI 95% of the time.
 The user can create a game between two human players (create a new instance of GUICF with no parameters), one human player and one AI
 (create an instance of an AI and make that the sole parameter for a new GUICF instance), or two AIs (put two AIs as the parameters of a new GUICF instance).
 
+## Usage
+
+Clone the gir repo and run the java file found here.
 To play a game, open command line to the main directory and run java play. This will by default create a game between a human player and CalvinAI. Enjoy! 
