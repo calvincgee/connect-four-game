@@ -9,6 +9,8 @@ are still somewhat elementary, on average it beats RandomAI 95% of the time.
 
 Clone the git repo and run the java file found in the main folder. By default, a game will be created between a human player and CalvinAI.
 
+Enjoy!
+
 ## Configuration
 
 To alter game modes, open the java file and change the Player parameters of the GUICF object.
