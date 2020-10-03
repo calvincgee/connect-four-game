@@ -13,5 +13,8 @@ The user can create a game between two human players (create a new instance of G
 
 ## Usage
 
-Clone the gir repo and run the java file found here.
-To play a game, open command line to the main directory and run java play. This will by default create a game between a human player and CalvinAI. Enjoy! 
+Clone the gir repo and run the java file found in the main folder. By default, a game will be created between a human player and CalvinAI.
+
+## Configuration
+
+To alter game modes, open the java file.
