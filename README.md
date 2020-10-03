@@ -7,7 +7,7 @@ are still somewhat elementary, on average it beats RandomAI 95% of the time.
 
 ## Usage
 
-Clone the gir repo and run the java file found in the main folder. By default, a game will be created between a human player and CalvinAI.
+Clone the git repo and run the java file found in the main folder. By default, a game will be created between a human player and CalvinAI.
 
 ## Configuration
 
